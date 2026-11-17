@@ -1,0 +1,39 @@
+# Folder yang dibikin ulang otomatis oleh Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Hasil build
+/[Bb]uild/
+/[Bb]uilds/
+*.apk
+*.aab
+
+# File editor / IDE
+.vs/
+.vscode/
+.idea/
+.gradle/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+/.utmp/
+/QCAR/
+*.slnx
+*.tmp
+*.unitypackage
+sysinfo.txt
+crashlytics-build.properties
+/Assets/Resources
+/Packages/com.ptc.vuforia.engine-*.tgz
